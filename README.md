@@ -1,6 +1,6 @@
 # Facebook-WebsiteLogin-Clone
 ## Clone of the Facebook Login Page with HTML🏗 and Tailwind CSS🌊
-✨You may have a look at my clone here: https://snazzy-kleicha-37979c.netlify.app/
+✨You may have a look at my clone here: https://facebook-website-login-clone.netlify.app/
 
 </br>
 This is the clone of the Facebook Login Page as visible in the desktops and laptops, made while learning Tailwind CSS to get a hands-on.
